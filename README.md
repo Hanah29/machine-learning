@@ -35,8 +35,8 @@ The dataset used in this project is osteoporosis.csv. It contains 1958 rows (pat
 
  Installation
 1. Clone the repository:
-      git clone https://github.com/Hanah29/machin-learning-project.git
-       cd machin-learning-project
+      git clone https://github.com/Hanah29/machin-learning.git
+       cd machin-learning
    
 2. Install the required dependencies:
       pip install -r requirements.txt
